@@ -1,4 +1,4 @@
-# defisaver-v3-contracts
+# krumfi-v3-contracts
 All the contracts related to the Defi Saver ecosystem.
 
 Detailed overview about that code can be found https://docs.defisaver.com
